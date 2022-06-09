@@ -7,6 +7,8 @@ print('Hola mundo')
 
 ~~~
 
-~~~bash
-clear
+~~~typescript
+
+console.log('Hola mundo')
+
 ~~~
