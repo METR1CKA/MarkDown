@@ -1,8 +1,12 @@
 # MarkDown
-Probando sintaxis en markdown
+## Probando sintaxis en markdown
 
 ~~~python
 
 print('Hola mundo')
 
+~~~
+
+~~~bash
+clear
 ~~~
