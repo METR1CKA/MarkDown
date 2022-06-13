@@ -1,95 +1,22 @@
-<!-- HEADERS -->
-***
-# Titulo
-## Subtitulo
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
-***
-<!-- ITALICAS NEGRITAS Y TACHADOS -->
+# MarkDown
 
-*Esto esta en italica*
+### ¿Que es markdown?
 
-**Esto esta en negritas**
-
-~~Esto esta en tachado~~
-
-***
-<!-- LISTAS -->
-* Lista 1
-    * SubItem 1
-        * SubItem 2
-* Hola
-* Mundo
-
-1. Lista 2
-    1. SubItem 1
-        1. SubItem2 
-2. Hello
-3. World
-***
-<!-- ENLACES -->
-[Mi Pagina Web](https://metr1cka.github.io)
-
-[Mi Pagina Web](https://metr1cka.github.io "Mi pagina web")
-
-***
-<!-- CITAS -->
-> Esto es una cita
-
-> Se agrega otra cita
-
-***
-<!-- SEPARADORES -->
-
-***
----
-___
-
-***
-<!-- LENGUAGES -->
-~~~python
-print('Esto es para bloques de codigo')
-~~~
-
-`Console.log('Para una sola linea de codigo')`
-
-```json
-{
-    "Bloque de":"codigo grande"
-}
 ```
-***
-<!-- TABLAS -->
-|Encabezado | objeto | Lista |
-|-----------|--------|-------|
-|Tablas     | Cosas  | pro   |
-|Tablas     | Cosas  | pro   |
-|Tablas     | Cosas  | pro   |
-|Tablas     | Cosas  | pro   |
+Markdown es un lenguaje de marcado ligero creado por John Gruber y Aaron Swartz que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano.
+```
 
-***
-<!-- IMAGENES -->
-![Imagen](Hacker.jpg "Que buen hacker xd")
+### Implementación
 
-***
-<!-- GITHUB MARKDOWN -->
-* [X] Tarea 1
-* [ ] Tarea 2
-* [X] Tarea 3
-* [ ] Tarea 4
+```
+Las implementaciones de Markdown están disponibles para un alto número de lenguajes de programación; también algunas plataformas y frameworks soportan el uso de Markdown. Por ejemplo, hay plugins de Markdown para la mayoría de las plataformas de microblogging.
 
-***
-@METR1CKA
+Aunque Markdown es muy sencillo y fácil de leer y escribir con un editor de texto llano (como el Bloc de notas, o gedit), hay editores especializados en Markdown, que están disponibles para muchos sistemas operativos como Linux, Mac OS, Windows, Android e iOS. Los principales editores de texto traen un plugin para el resaltado de sintaxis de Markdown, ya sea incluido dentro del programa o con una descarga adicional. Estos editores también tienen una ventana para previsualizar nuestro documento como si se tratase de un documento WYSIWYG.
+```
 
-:heart_eyes:
-***
+**METR1CKA**
 
-Esto es una footnote[^1].
+> [Pagina web](https://metr1cka.github.io "Visitanos")
 
-[^1]: Mi referencia.
-***
-<!-- MAS SINTAXIS -->
+> [Mas repositorios](https://github.com/METR1CKA "Mi perfil")
 
-[MARKDOWN](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "LINK CON MAS SINTAXIS AVANZADA")
