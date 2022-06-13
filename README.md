@@ -10,10 +10,11 @@ Las implementaciones de Markdown están disponibles para un alto número de leng
 
 Aunque Markdown es muy sencillo y fácil de leer y escribir con un editor de texto llano (como el Bloc de notas, o gedit), hay editores especializados en Markdown, que están disponibles para muchos sistemas operativos como Linux, Mac OS, Windows, Android e iOS. Los principales editores de texto traen un plugin para el resaltado de sintaxis de Markdown, ya sea incluido dentro del programa o con una descarga adicional. Estos editores también tienen una ventana para previsualizar nuestro documento como si se tratase de un documento WYSIWYG.
 
-**METR1CKA**
+## Syntaxis
+
+[Documento](https://github.com/METR1CKA/MarkDown/blob/main/syntaxis.md "Lenguaje de markdown")
+# **METR1CKA**
 
 > [Pagina web](https://metr1cka.github.io "Visitanos")
 
 > [Mas repositorios](https://github.com/METR1CKA "Mi perfil")
-
-
