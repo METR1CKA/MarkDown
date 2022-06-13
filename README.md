@@ -86,12 +86,10 @@ print('Esto es para bloques de codigo')
 :heart_eyes:
 ***
 
-Here is a simple footnote[^1].
+Esto es una footnote[^1].
 
-[^1]: My reference.
-[^2]: Every new line should be prefixed with 2 spaces.  
-  This allows you to have a footnote with multiple lines.
+[^1]: Mi referencia.
 ***
-<!-- MMAS SINTAXIS -->
+<!-- MAS SINTAXIS -->
 
 [MARKDOWN](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "LINK CON MAS SINTAXIS AVANZADA")
