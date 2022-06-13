@@ -81,7 +81,7 @@ print('Esto es para bloques de codigo')
 * [ ] Tarea 4
 
 ***
-@METR1CKA
+@ METR1CKA
 
 :heart_eyes:
 ***
