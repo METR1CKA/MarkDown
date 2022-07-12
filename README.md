@@ -15,6 +15,6 @@ Aunque Markdown es muy sencillo y fácil de leer y escribir con un editor de tex
 [Documento](https://github.com/METR1CKA/MarkDown/blob/main/syntaxis.md "Lenguaje de markdown")
 # **METR1CKA**
 
-> [Pagina web](https://metr1cka.github.io "Visitanos")
+> [Pagina web](https://metr1cka.github.io "Visitanos en DevBlogs")
 
 > [Mas repositorios](https://github.com/METR1CKA "Mi perfil")
